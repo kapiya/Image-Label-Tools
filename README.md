@@ -9,3 +9,7 @@ Yolo_mark: https://github.com/AlexeyAB/Yolo_mark
 BBox-Label-Tool: https://github.com/puzzledqs/BBox-Label-Tool
 
 ImageLabel: https://github.com/lanbing510/ImageLabel
+
+# 图片分割 segmentation
+
+Labelme: https://github.com/wkentaro/labelme
